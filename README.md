@@ -15,5 +15,4 @@ bilangan
 11.	print(b, "adalah nilai terbesar ")
 12. else:
 13.	print(c, "adalah nilai terbesar ")
-14. 
-# labpy01
+14.
