@@ -40,3 +40,18 @@ bilangan
 
 
 ![new 3](https://user-images.githubusercontent.com/45659505/52552643-8577fb80-2e13-11e9-815e-de20ae70a520.PNG)
+
+
+6. Proses push repository ke origin master github
+
+
+![satu](https://user-images.githubusercontent.com/45659505/52552872-48f8cf80-2e14-11e9-8dec-334f4eeb6ef5.PNG)
+
+
+
+![dua](https://user-images.githubusercontent.com/45659505/52552871-48603900-2e14-11e9-8484-a5379fa5ba35.PNG)
+
+
+
+![tiga](https://user-images.githubusercontent.com/45659505/52552874-48f8cf80-2e14-11e9-85a1-3a353c69345e.PNG)
+
