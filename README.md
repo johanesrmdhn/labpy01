@@ -25,7 +25,7 @@ bilangan
 4. Lalu jalankan program tersebut
 
 
-![5](https://user-images.githubusercontent.com/45659505/52551126-be14d680-2e0d-11e9-9cd1-d3831ef08a75.png)
+![screenshot 18](https://user-images.githubusercontent.com/45659505/52552453-e05d2300-2e12-11e9-8000-e7a38e247255.png)
 
 
 5.
