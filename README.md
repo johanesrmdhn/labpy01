@@ -31,9 +31,6 @@ bilangan
 5. Hasil dalam 3 kondisi bilangan
 
 
-![new 1](https://user-images.githubusercontent.com/45659505/52552641-84df6500-2e13-11e9-87b5-17088a3c20bb.PNG)
-
-
 
 ![new 2](https://user-images.githubusercontent.com/45659505/52552642-84df6500-2e13-11e9-98db-8a322eb0a28a.PNG)
 
