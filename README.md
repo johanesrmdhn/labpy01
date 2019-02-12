@@ -38,6 +38,9 @@ bilangan
 ![new 2](https://user-images.githubusercontent.com/45659505/52552642-84df6500-2e13-11e9-98db-8a322eb0a28a.PNG)
 
 
+1. ![1](https://user-images.githubusercontent.com/45659505/52640390-f9e09680-2f08-11e9-9a09-4055cb6c9c42.PNG)
+
+
 
 ![new 3](https://user-images.githubusercontent.com/45659505/52552643-8577fb80-2e13-11e9-815e-de20ae70a520.PNG)
 
